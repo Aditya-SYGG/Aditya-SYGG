@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Aditya-SYGG/Aditya-SYGG/blob/main/ADITYA%20DHYANI.png?raw=true" alt="logo"  height="400">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">I'm a Computer Science Engineering Student</h3>
 
